@@ -1,0 +1,1 @@
+(switch_on instrument0 satellite0)(turn_to satellite0 GroundStation0 Phenomenon6)(calibrate satellite0 instrument0 GroundStation0)
